@@ -1,15 +1,19 @@
-# DS_Microsoft--Classifying-Cybersecurity-Incidents
-it's a capstone project that helps to understand and improve knowlage in Data Preprocessing and Feature Engineering
-Machine Learning Classification Techniques
-Model Evaluation Metrics (Macro-F1 Score, Precision, Recall)
+# Capstone Project: Machine Learning for Classification in Cybersecurity
 
-we have two set of data Train and Test data by train the model using the train.csv dataset and provide evaluation metrics—macro-F1 score, precision, and recall—based on the model's performance on the test.csv dataset. This ensures that the model is not only well-trained but also generalizes effectively to unseen data, making it reliable for real-world applications.
-Technical Tags:
-Machine Learning
-Classification
-Cybersecurity
-Data Science
-Model Evaluation
-Feature Engineering
-SOC
-Threat Detection
+This project focuses on understanding and improving key concepts in:
+
+- **Data Preprocessing**  
+- **Feature Engineering**  
+- **Machine Learning Classification Techniques**  
+- **Model Evaluation Metrics**: Macro-F1 Score, Precision, and Recall  
+
+## Project Overview
+
+The project involves working with two datasets: `train.csv` and `test.csv`.  
+- The **training dataset** is used to build and optimize the machine learning model.  
+- The **test dataset** evaluates the model's performance to ensure it generalizes effectively to unseen data.
+
+Key evaluation metrics—**Macro-F1 Score**, **Precision**, and **Recall**—are used to assess the model's classification performance on the test data. This approach ensures the model is not only well-trained but also reliable for real-world applications, particularly in **cybersecurity** and **threat detection**.
+
+## Technical Tags  
+Machine Learning | Classification | Cybersecurity | Data Science | Model Evaluation | Feature Engineering | SOC | Threat Detection
